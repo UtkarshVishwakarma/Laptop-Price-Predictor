@@ -1,6 +1,7 @@
 import streamlit as st
 import joblib
 import sklearn
+import xgboost
 
 st.set_page_config(page_title='Laptop | AI', page_icon='favicon.png')
 
